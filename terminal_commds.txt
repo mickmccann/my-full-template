@@ -1,0 +1,44 @@
+echo Hello World!
+
+history
+
+! (accesses the history)
+
+pwd (print working directory - tells you what directory you're in)
+
+ls - lists all the current files in the working directory
+
+cd .. changes directory
+
+cd ..// moves up a directory level
+
+touch makes a file
+
+open opens a file
+
+rm removes files or deletes them from the system
+
+mkdir makes a new directory of folder
+
+cp hello.txt hello copies a file into a folder/directory
+
+cp hello.txt world.txt copies a file and renames it
+
+mv world.txt hello moves a file into a folder
+
+rm -rf rmoves a folder
+
+
+nano opens text editor
+
+cat follwed by file name opens file in the terminal
+
+diff shows the difference between files
+
+../ means look in the directory/folder above the current one
+
+. means our current working directory
+
+readlink -f README.md finds the absolute path of a file
+
+mkdir hello_world/new_folder makes a new directory (new_folder) inside another (hello_world)
